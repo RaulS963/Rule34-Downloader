@@ -51,6 +51,6 @@ For example look at the following two images (_open the image in new tab_).
   ![hd-image](imgs/r34-img2-hd.jpg)
 
 # Creator
-<p align="center">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/RaulSilv3r?style=social">
-</p>
+
+ <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/RaulSilv3r?style=social">
+
