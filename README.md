@@ -1,9 +1,18 @@
 # Rule34-Downloader
+<p align="center">
+ <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RaulS963/Rule34-Downloader"> 
+ <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/RaulS963/Rule34-Downloader">
+ <img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/RaulS963/Rule34-Downloader">
+ <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/RaulS963/Rule34-Downloader/total">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RaulS963/Rule34-Downloader">
+</p>
 
 * [What is Rule34 Downloader](#what-is-rule34-downloader)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Difference between SD and HD downloader](#difference-between-sd-and-hd-downloader)
+* [Usage](#usage)
+
 
 # What is Rule34 Downloader
 Rule34 Downloader allows you to download every images and videos present in [rule34.xxx](https://rule34.xxx) site. The rule34 downloader comes in two flavours the SD image downloader and the HD image downloader.
@@ -40,3 +49,8 @@ For example look at the following two images (_open the image in new tab_).
   
 * __HD downloader__
   ![hd-image](imgs/r34-img2-hd.jpg)
+
+# Creator
+<p align="center">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/RaulSilv3r?style=social">
+</p>
