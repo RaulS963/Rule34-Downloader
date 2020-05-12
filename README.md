@@ -1,5 +1,9 @@
 # Rule34-Downloader
 <p align="center">
+ <img src="https://i.imgur.com/U5DItOJ.jpg" />
+</p>
+
+<p align="center">
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RaulS963/Rule34-Downloader"> 
  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/RaulS963/Rule34-Downloader">
  <img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/RaulS963/Rule34-Downloader">
