@@ -11,7 +11,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Difference between SD and HD downloader](#difference-between-sd-and-hd-downloader)
-* [Usage](#usage)
+* [Creator](#creator)
 
 
 # What is Rule34 Downloader
