@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
  <img src="https://i.imgur.com/U5DItOJ.jpg" />
-</p>
+</h1>
 
 # Rule34-Downloader
 
