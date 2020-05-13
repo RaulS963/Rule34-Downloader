@@ -1,7 +1,3 @@
-<h1 align="center">
- <img src="https://i.imgur.com/U5DItOJ.jpg" />
-</h1>
-
 # Rule34-Downloader
 
 
