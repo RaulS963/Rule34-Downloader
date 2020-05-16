@@ -46,11 +46,19 @@ As the name says the SD downloader downloads the SD version of the image (genera
 __NOTE:__ _The HD downloader is little slower than than the SD downloader, since it searches for HD image links which adds a good amount of overhead._
 
 For example look at the following two images (_open the image in new tab_).
-* __SD downloader__
-  ![sd-image](imgs/r34-img2-sd.jpg)
-  
-* __HD downloader__
-  ![hd-image](imgs/r34-img2-hd.jpg)
+<details>
+ <summary>SD downloader [NSFW] </summary>
+ <p>
+   <img src="imgs/r34-img2-sd.jpg" />  
+ </p>
+</details>
+
+<details>
+ <summary>HD downloader [NSFW] </summary>
+ <p>
+   <img src="imgs/r34-img2-hd.jpg" />  
+ </p>
+</details>
 
 # Creator
 
