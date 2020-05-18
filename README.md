@@ -4,7 +4,6 @@
 <p align="center">
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RaulS963/Rule34-Downloader"> 
  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/RaulS963/Rule34-Downloader">
- <img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/RaulS963/Rule34-Downloader">
  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/RaulS963/Rule34-Downloader/total">
  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RaulS963/Rule34-Downloader">
 </p>
@@ -68,8 +67,8 @@ This is a working demo for __SD__ downloader
 
 # Creator
 __email:__ rahulsilver03@gmail.com  
-__twitter:__ @RaulSilv3r  
-__reddit:__ u/demonic_END
+__twitter:__ [@RaulSilv3r](https://twitter.com/RaulSilv3r)    
+__reddit:__ [u/demonic_END](https://www.reddit.com/user/demonic_END)
 
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/RaulSilv3r?style=social">
 
