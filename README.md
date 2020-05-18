@@ -13,6 +13,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Difference between SD and HD downloader](#difference-between-sd-and-hd-downloader)
+* [Working Demo](#working-demo)
 * [Creator](#creator)
 
 
@@ -56,11 +57,19 @@ For example look at the following two images (_open the image in new tab_).
 <details>
  <summary>HD downloader [NSFW] </summary>
  <p>
-   <img src="imgs/r34-img2-hd.jpg" />  
+   <img src="imgs/r34-img2-hd.jpeg" />  
  </p>
 </details>
 
+# Working Demo
+This is a working demo for __SD__ downloader  
+
+![demo gif](imgs/r34.gif)
+
 # Creator
+__email:__ rahulsilver03@gmail.com  
+__twitter:__ @RaulSilv3r  
+__reddit:__ u/demonic_END
 
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/RaulSilv3r?style=social">
 
