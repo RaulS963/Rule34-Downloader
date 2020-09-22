@@ -43,7 +43,7 @@ This will download all the images/videos that have tags  ```erza_scarlet```, ```
 # Difference between SD and HD downloader
 As the name says the SD downloader downloads the SD version of the image (generally 850 x 1160) whereas the HD downloader downloads the HD version of the image (4050 x 3050).  
 
-__NOTE:__ _The HD downloader is little slower than than the SD downloader, since it searches for HD image links which adds a good amount of overhead._
+__NOTE:__ _The HD downloader is little slower than the SD downloader, since it searches for HD image links which adds a good amount of overhead._
 
 For example look at the following two images (_open the image in new tab_).
 <details>
